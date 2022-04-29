@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "PRITI",
+        "password": 12345,
+        "age": 22,
+        "phone number": "811612344",
+        "order history": {
+            "04-29-2022": [
+                "BIRIYANI"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "AKASH",
+        "password": 8976543,
+        "age": 89,
+        "phone number": "3456788543",
+        "order history": {}
+    }
+]
